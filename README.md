@@ -18,4 +18,4 @@ When you write your blog article and want the link to open in a new tab you shou
 <pre><code>{{< open-in-blank "Github" "https://github.com/SecuritySense/" >}}
 </code></pre>
 
-The text between the first quotes is the text that is displayed within the post with the second qoted text being the URL to open.
+The text between the first quotes is the text that is displayed within the post with the second quoted text being the URL to open.
