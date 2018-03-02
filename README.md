@@ -1,0 +1,1 @@
+# open-in-blank-markdown-shortcode
