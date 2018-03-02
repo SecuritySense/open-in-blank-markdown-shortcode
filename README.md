@@ -15,7 +15,7 @@ The contents of the html should be as follows:
 ```
 When you write your blog article and want the link to open in a new tab you should use the following syntax utilising the name of the shortcode html file you created without the file extension e.g `open-in-blank`:
 
-<pre><code>{{< open-in-blank "Github" "https://github.com/SecuritySense/" >}}
-</code></pre>
+<pre><code>{{&lt; open-in-blank "Github" "https://github.com/SecuritySense/" &gt;}}</code></pre>
+
 
 The text between the first quotes is the text that is displayed within the post with the second quoted text being the URL to open.
